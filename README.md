@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning basics
 - 💞️ I’m looking to collaborate on experts
 - 📫 How to reach me mozgul88@gmail.com
+- I would like to improve my coding skills
 
 <!---
 Ljoke7/Ljoke7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
